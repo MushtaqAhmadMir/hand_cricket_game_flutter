@@ -150,7 +150,7 @@ class GameCubit extends Cubit<GameState> {
       ),
     );
 
-    if (state.ballsRemaining == 1) {
+    if (state.ballsRemaining == 0) {
       _timer?.cancel();
       emit(state.copyWith(isPLayerBatting: false, showDefendScore: true));
       _startBotPlaying();
@@ -191,7 +191,7 @@ class GameCubit extends Cubit<GameState> {
       ),
     );
 
-    if (state.ballsRemaining == 1) {
+    if (state.ballsRemaining == 0) {
       _timer?.cancel();
       emit(state.copyWith(bothPlayersPlayed: true));
     }
