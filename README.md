@@ -138,7 +138,7 @@ Feel free to check the [issues page](https://github.com/MushtaqAhmadMir/hand_cri
 
 ## 👨‍💼 Author
 
-**Mushtaq Ahmad Farmer**  
+**Mushtaq Ahmad Mir**  
 📧 Email: [mushtaq11917632@gmail.com](mailto:mushtaq@binaryveda.com)   
 🌍 Location: Kashmir, India  
 🧐 Roles: Flutter Developer | Mobile App Engineer
