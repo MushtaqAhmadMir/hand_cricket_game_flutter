@@ -72,10 +72,10 @@ The project includes reusable managers to centralize styling:
 
 > Screenshots of the game screens
 
-![How to Play Screen](assets/images_s_1.png)
-![Game Screen](assets/images_s_2.png)
-![You Won](assets/images_s_3.png)
-![Score Card](assets/images_s_4.png)
+![How to Play Screen](assets/images/s_1.png)
+![Game Screen](assets/images/s_2.png)
+![You Won](assets/images/s_3.png)
+![Score Card](assets/images/s_4.png)
 
 
 ---
@@ -91,7 +91,7 @@ The project includes reusable managers to centralize styling:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/hand-cricket-game.git
+git clone https://github.com/MushtaqAhmadMir/hand_cricket_game_flutter.git
 cd hand-cricket-game
 
 # Install dependencies
